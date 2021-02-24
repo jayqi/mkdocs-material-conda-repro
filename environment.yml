@@ -1,0 +1,6 @@
+name: mkdocs-material-repro
+channels:
+  - conda-forge
+dependencies:
+  - mkdocs
+  - mkdocs-material

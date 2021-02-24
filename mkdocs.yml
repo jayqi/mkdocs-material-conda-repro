@@ -1,0 +1,9 @@
+site_name: mkdocs-material-conda-repro
+site_url: https://jayqi.github.io/mkdocs-material-conda-repro
+site_description: Repro for mkdocs-material depedency bug
+repo_url: https://github.com/jayqi/mkdocs-material-conda-repro
+theme:
+  name: material
+
+nav:
+  - Home: "index.md"
